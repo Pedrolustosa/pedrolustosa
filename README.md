@@ -1,5 +1,6 @@
-### Hello ladies and gentlemen 👋
+[![Pedro Lustsa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa)](https://github.com/Pedrolustosa/github-readme-stats)
 
+### Hello ladies and gentlemen 👋
 
 Pedro lustosa
 
@@ -20,9 +21,3 @@ always open to new types of programming languages and the like.
 
 - 📫 How to reach me: 
 https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144
-
-
-*----------------------------------------------------*
-[![Pedro Lustsa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa)](https://github.com/Pedrolustosa/github-readme-stats)
-
-
