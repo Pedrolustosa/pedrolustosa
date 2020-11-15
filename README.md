@@ -1,7 +1,7 @@
 ### Hello ladies and gentlemen 👋
 
 
-**Pedrolustosa/pedrolustosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pedro lustosa
 
 "I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development"
 
@@ -20,5 +20,9 @@ always open to new types of programming languages and the like.
 
 - 📫 How to reach me: 
 https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144
+
+
+*----------------------------------------------------*
+[![Pedro Lustsa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa)](https://github.com/Pedrolustosa/github-readme-stats)
 
 
