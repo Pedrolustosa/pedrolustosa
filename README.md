@@ -1,6 +1,5 @@
 ![Pedro Lustosa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=dark)](https://github.com/Pedrolustosa/github-readme-stats)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
 
 ### Hello ladies and gentlemen 👋
 
@@ -22,4 +21,4 @@ However, I am looking for new experiences in computing and I am easy to learn an
 always open to new types of programming languages and the like.
 
 - 📫 How to reach me: 
-https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
