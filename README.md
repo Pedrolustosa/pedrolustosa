@@ -3,7 +3,9 @@
 
 ### Hello ladies and gentlemen 👋
 
-Pedro lustosa
+- 📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedrolustosa)](https://github.com/Pedrolustosa)
 
 "I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development"
 
@@ -20,5 +22,4 @@ Information Systems and Technical Student Maintenance and Computer Support compl
 However, I am looking for new experiences in computing and I am easy to learn and 
 always open to new types of programming languages and the like.
 
-- 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
+
