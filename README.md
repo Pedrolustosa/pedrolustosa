@@ -1,4 +1,4 @@
-[![Pedro Lustosa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa)](https://github.com/Pedrolustosa/github-readme-stats)
+![Pedro Lustosa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact)](https://github.com/Pedrolustosa/github-readme-stats)
 
 ### Hello ladies and gentlemen 👋
