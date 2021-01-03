@@ -1,6 +1,9 @@
 ![Pedro Lustosa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=dark)](https://github.com/Pedrolustosa/github-readme-stats)
 
+
+[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
+
 ### Hello ladies and gentlemen 👋
 
 Pedro lustosa
