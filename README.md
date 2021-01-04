@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedrolustosa)](https://github.com/Pedrolustosa)
 
-"I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development"
+"I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development. And i'm Full-Stack Developer"
 
 - 🌱 I’m currently learning: 
 In these last days I am improving my knowledge in the: 
