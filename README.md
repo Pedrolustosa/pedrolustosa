@@ -21,8 +21,7 @@ In these last days I am improving my knowledge in the:
     <img
       align="center"
       height="165"
-![Pedro Lustosa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=dark)
-hide=issues&theme=radical"
+         src="https://github-readme-stats.vercel.app/api?username=Pedrolustosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
   </a>
 </p>
