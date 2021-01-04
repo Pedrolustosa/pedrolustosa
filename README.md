@@ -9,9 +9,14 @@
 "I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development"
 
 - 🌱 I’m currently learning: 
-In these last days I am improving my knowledge in the C# .NET Core, CSS, HTML, Bootstrap and Angular. And gradually I will improve my English, despite being in Basic.
+In these last days I am improving my knowledge in the: 
+* C# 
+* .NET Core
+* CSS
+* HTML
+* Bootstrap 
+* Angular
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&layout=compact&theme=dark)](https://github.com/Pedrolustosa/github-readme-stats)
 ![Pedro Lustosa github stats](https://github-readme-stats.vercel.app/api?username=Pedrolustosa&show_icons=true&theme=dark)
 
 
