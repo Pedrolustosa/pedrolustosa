@@ -1,9 +1,9 @@
-<p align="center" font-size="24">
-<b>I'm Pedro Lustosa!</b>
+<p align="center">
+  <b font-size="24">I'm Pedro Lustosa!</b>
 </p>
 
-<p align="center" font-size="16">
-Hey Comrades 👋
+<p align="center" >
+  <b font-size="16">Hey Comrades 👋</b>
 </p>
 
 <p align="center">
