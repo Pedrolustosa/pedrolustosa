@@ -1,8 +1,8 @@
-<p align="center">
+<p align="center" font-size="24">
 <b>I'm Pedro Lustosa!</b>
 </p>
 
-<p align="center">
+<p align="center" font-size="16">
 Hey Comrades 👋
 </p>
 
