@@ -1,8 +1,6 @@
 
 # I'm Pedro Lustosa!
 
-### Hey Comrades 👋
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -12,6 +10,8 @@
     />
   </a>
 </p>
+
+## Hey Comrades 👋
 
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
