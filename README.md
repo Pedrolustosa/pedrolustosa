@@ -1,5 +1,5 @@
 <p align="center">
-I'm Pedro Lustosa!
+<b>I'm Pedro Lustosa!</b>
 </p>
 
 <p align="center">
