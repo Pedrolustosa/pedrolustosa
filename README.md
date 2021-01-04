@@ -1,10 +1,7 @@
-<p align="center">
-  # I'm Pedro Lustosa!
-</p>
 
-<p align="center" >
-  <b font-size="16">Hey Comrades 👋</b>
-</p>
+# I'm Pedro Lustosa!
+
+### Hey Comrades 👋
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
