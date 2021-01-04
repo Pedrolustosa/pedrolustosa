@@ -1,9 +1,9 @@
 <p align="center">
-### I'm Pedro Lustosa!
+<h2>I'm Pedro Lustosa!</h2>
 </p>
 
 <p align="center">
-## Hey Comrades 👋
+<h3>Hey Comrades 👋</h3>
 </p>
 
 <p align="center">
