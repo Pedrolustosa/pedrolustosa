@@ -15,7 +15,8 @@
 
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedrolustosa)](https://github.com/Pedrolustosa) ---- 📫 Views: <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrolustosa" />
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pedrolustosa)](https://github.com/Pedrolustosa)
+- 📫 Views: <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrolustosa" />
 
 "I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development. And I'm a Full-Stack Developer intern"
 
