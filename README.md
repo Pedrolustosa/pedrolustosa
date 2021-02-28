@@ -14,7 +14,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&exclude_repo=Pedrolustosa.github.io,free-for-dev&layout=compact&langs_count=8&theme=dark)](https://github.com/Pedrolustosa)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&exclude_repo=Pedrolustosa.github.io,free-for-dev&theme=dark&langs_count=8)](https://github.com/Pedrolustosa)"
     />
   </a>
 </p>
