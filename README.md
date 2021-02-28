@@ -1,7 +1,6 @@
 
-<p align="center">
-  <h1> I'm Pedro Lustosa!<h1>
-</p>
+
+  # I'm Pedro Lustosa!
 
 <p align="center">
   <a href="https://github.com/Pedrolustosa/github-readme-stats">
