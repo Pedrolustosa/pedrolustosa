@@ -1,6 +1,6 @@
 
 <p align="center">
-  # I'm Pedro Lustosa!
+  <h1> I'm Pedro Lustosa!<h1>
 </p>
 
 <p align="center">
