@@ -2,7 +2,7 @@
 # I'm Pedro Lustosa!
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Pedrolustosa/github-readme-stats">
     <img
       align="center"
       height="165"
@@ -14,7 +14,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ualehosaini&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&exclude_repo=Pedrolustosa.github.io,free-for-dev&layout=compact&langs_count=8&theme=dark)](https://github.com/Pedrolustosa)"
     />
   </a>
 </p>
