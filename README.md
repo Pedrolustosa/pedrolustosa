@@ -1,5 +1,7 @@
 
-# I'm Pedro Lustosa!
+<p align="center">
+  # I'm Pedro Lustosa!
+</p>
 
 <p align="center">
   <a href="https://github.com/Pedrolustosa/github-readme-stats">
