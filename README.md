@@ -1,5 +1,5 @@
 
-<h2 align="center">I'm Pedro Lustosa!:speech_balloon:</h2>
+<h2 align="center">:flag-br: I'm Pedro Lustosa!:speech_balloon:</h2>
 
 <p align="center">
   <a href="https://github.com/Pedrolustosa/github-readme-stats">
