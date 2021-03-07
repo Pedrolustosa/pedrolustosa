@@ -26,7 +26,7 @@
 - 📫 Views: <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrolustosa" />
 -  If you want to help you can buy a <a href="https://www.buymeacoffee.com/pedrolustosa">:coffee:</a>
 
-"I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development. And I'm a Full-Stack Developer intern"
+"I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development."
 
 - 🌱 I’m currently learning: 
 In these last days I am improving my knowledge in the: 
