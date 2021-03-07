@@ -9,6 +9,14 @@
       src="https://github-readme-stats.vercel.app/api?username=Pedrolustosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
   </a>
+  
+  <a href="https://github.com/Pedrolustosa/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/??username=Pedrolustosa&&layout=compact&theme=dark)](https://github.com/Pedrolustosa/github-readme-stats"
+    />
+  </a>
 </p>
 
 ## Hey Comrades 👋
