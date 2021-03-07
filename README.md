@@ -23,7 +23,6 @@
 
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Pedrolustosa)](https://github.com/Pedrolustosa)
 - 📫 Views: <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrolustosa" />
 -  If you want to help you can buy a <a href="https://www.buymeacoffee.com/pedrolustosa">:coffee:</a>
 
