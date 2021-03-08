@@ -23,8 +23,7 @@
 
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
-- 📫 Views: <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrolustosa" />
--  If you want to help you can buy a <a href="https://www.buymeacoffee.com/pedrolustosa">:coffee:</a>
+- 📫 Views:  <img src="https://komarev.com/ghpvc/?username=Pedrolustosa&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrolustosa" />
 
 "I'm Pedro Lustosa, and I am gradually getting deeper into the area of software development."
 
