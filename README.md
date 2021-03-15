@@ -25,7 +25,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=pedroeternalss@gmail.com)](mailto:pedroeternalss@gmail.com)
 
-"I am Pedro Lustosa, I am 21 years old and I am studying Information System and I am currently doing the 7th period. I have already had contact with several areas of information technology because of my curiosity. But, of all areas my biggest focus is Development, and I study to be a Dev. FullStack and to be able to do my master's degree in Artificial Intelligence."
+"I am Pedro Lustosa, I am studying Information System and I am currently doing the 7th period. I have already had contact with several areas of information technology because of my curiosity. But, of all areas my biggest focus is Development, and I study to be a Dev. FullStack and to be able to do my master's degree in Artificial Intelligence."
 
 :zap: In these last days I am improving my knowledge in:
 <ul>
