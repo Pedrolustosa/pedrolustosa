@@ -6,7 +6,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Pedrolustosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=Pedrolustosa&theme=chartreuse-dark&show_icons=true"
     />
   </a>
   
@@ -14,7 +14,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&&layout=compact&theme=chartreuse-dark"
     />
   </a>
 </p>
