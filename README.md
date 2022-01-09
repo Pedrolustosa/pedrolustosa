@@ -44,7 +44,8 @@
 
   <li>:1st_place_medal: Badges:</li>
   <br/>
-    <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png"  width="124px"><img src="images/kanban-essentials-professional-certificate-kepc.png"  width="124px"><img src="images/lifelong-learning.png"  width="124px"><img src="mta-html5-application-development-fundamentals-certified-2022.png"  width="124px"><img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png"  width="124px"><img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"  width="124px"><img src="images/scrum-foundation-professional-certificate-sfpc.1.png"  width="124px">
-  <br/>
+  <p align="left">
+    <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png"  width="102px"><img src="images/kanban-essentials-professional-certificate-kepc.png"  width="102px"><img src="images/lifelong-learning.png"  width="102px"><img src="mta-html5-application-development-fundamentals-certified-2022.png"  width="102px"><img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png"  width="102px"><img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"  width="102px"><img src="images/scrum-foundation-professional-certificate-sfpc.1.png"  width="102px">
+  </p>
 </ul>
 
