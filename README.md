@@ -42,8 +42,9 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   </p>
 
-  <li>:toolbox: Badges:</li>
-  <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png">
+  <li>:1st_place_medal: Badges:</li>
+  <br/>
+    <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png"  width="124px"><img src="images/kanban-essentials-professional-certificate-kepc.png"  width="124px"><img src="images/lifelong-learning.png"  width="124px"><img src="mta-html5-application-development-fundamentals-certified-2022.png"  width="124px"><img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png"  width="124px"><img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"  width="124px"><img src="images/scrum-foundation-professional-certificate-sfpc.1.png"  width="124px">
   <br/>
 </ul>
 
