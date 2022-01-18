@@ -43,9 +43,20 @@
   </p>
 
   <li>:1st_place_medal: Badges:</li>
-  <br/>
   <p align="left">
-    <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png"  width="96px"><img src="images/kanban-essentials-professional-certificate-kepc.png"  width="96px"><img src="images/lifelong-learning.png"  width="96px"><img src="images/mta-html5-application-development-fundamentals-certified-2022.png"  width="96px"><img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png"  width="96px"><img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png"  width="96px"><img src="images/scrum-foundation-professional-certificate-sfpc.1.png"  width="96px">
+    <details>
+      <summary>CertiProf</summary>
+      <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="96px">
+      <img src="images/kanban-essentials-professional-certificate-kepc.png" width="96px">
+      <img src="images/lifelong-learning.png" width="96px">
+      <img src="images/scrum-foundation-professional-certificate-sfpc.1.png" width="96px">
+      <img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="96px">
+    </details>
+    <details>
+      <summary>Microsoft</summary>
+      <img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="96px">
+      <img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="96px">
+    </details>
   </p>
 </ul>
 
