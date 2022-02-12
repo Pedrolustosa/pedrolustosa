@@ -56,7 +56,7 @@
       <summary>Microsoft</summary>
       <img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="96px">
       <img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="96px">
-      <img src="images/mta-introduction-to-programming-using-javascript-certified-2022" width="96px">
+      <img src="images/mta-introduction-to-programming-using-javascript-certified-2022.png" width="96px">
     </details>
   </p>
 </ul>
