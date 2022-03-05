@@ -16,13 +16,14 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolustosa&&layout=compact&theme=chartreuse-dark"
     />
-  </a>
+  </a> 
 </p>
 
 ## Hey Comrades 👋
 
 * 📫 How to find me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lustosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144) [![Gmail Badge](https://img.shields.io/badge/-pedroeternalss@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroeternalss@gmail.com)](mailto:pedroeternalss@gmail.com)
+![](https://komarev.com/ghpvc/?username=Pedrolustosa&color=2ecc71)
 
 <p align="justify">
   "I am Pedro Lustosa, I am studying Information System and I am currently doing the 7th period. I have already had contact with several areas of information technology because of my curiosity. But, of all areas my biggest focus is Development, and I study to be a Dev. FullStack and to be able to do my master's degree in Artificial Intelligence and I want to learn English, because I still have the basics and I want to work in other countries"
