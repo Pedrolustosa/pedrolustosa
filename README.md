@@ -64,6 +64,7 @@
       <img src="images/azure-data-fundamentals.png" width="96px">
       <img src="images/mta-security-fundamentals-certified-2022.png" width="96px">
       <img src="images/microsoft-certified-azure-fundamentals-2022.png" width="96px">
+      <img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="96px">
     </details>
   </p>
 </ul>
