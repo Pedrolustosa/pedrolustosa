@@ -56,12 +56,12 @@
     <details>
       <summary>Microsoft</summary>
       <img src="images/mta-html5-application-development-fundamentals-certified-2022.png" width="96px">
-      <img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="96px">
       <img src="images/mta-introduction-to-programming-using-javascript-certified-2022.png" width="96px">
       <img src="images/mta-database-fundamentals-certified-2022.png" width="96px">
       <img src="images/mta-software-development-fundamentals-certified-2022.png" width="96px">
       <img src="images/mta-mobility-and-device-fundamentals-certified-2022.png" width="96px">
       <img src="images/mta-security-fundamentals-certified-2022.png" width="96px">
+      <img src="images/mta-introduction-to-programming-using-html-and-css-certified-2021.png" width="96px">
       <img src="images/azure-data-fundamentals.png" width="96px">
       <img src="images/microsoft-certified-azure-fundamentals-2022.png" width="96px">
       <img src="images/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="96px">
