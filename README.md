@@ -13,9 +13,10 @@
 ## About Me
 
 📫 **How to find me:** 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lustosa-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144) 
-[![Gmail Badge](https://img.shields.io/badge/-pedroeternalss@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroeternalss@gmail.com)](mailto:pedroeternalss@gmail.com)
-![](https://komarev.com/ghpvc/?username=Pedrolustosa&color=2ecc71)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&)](https://komarev.com/ghpvc/?username=Pedrolustosa)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lustosa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144) 
+[![Gmail Badge](https://img.shields.io/badge/-pedroeternalss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedroeternalss@gmail.com)](mailto:pedroeternalss@gmail.com)
+[![Credly Badge](https://img.shields.io/badge/-Pedro%20Lustosa-e67e22?style=for-the-badge&logo=credly&logoColor=white&link=https://www.credly.com/earner/earned)](https://www.credly.com/earner/earned)
 
 <p align="justify">
   "Graduated in Bachelor in Information System and technical course in Computer Maintenance.
@@ -28,6 +29,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Xunit-2ECC71?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
