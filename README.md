@@ -11,7 +11,7 @@
 ## About Me
 📫 **How to find me:** 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-e17055?style=for-the-badge&logo=buy-me-a-coffee&logoColor=2C3A47)](https://www.buymeacoffee.com/pedrolustosa)
-[![Credly](https://img.shields.io/badge/Credly-0073b1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedro-lustosa-silva)
+[![Credly](https://img.shields.io/badge/Credly-0073b1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedrolustosaengineer)
 [![Profile Views](https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge&)](https://komarev.com/ghpvc/?username=Pedrolustosa)
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lustosa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144)](https://www.linkedin.com/in/pedro-henrique-lustosa-e-silva-29b827144) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeternalss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedroeternalss@gmail.com)](mailto:pedroeternalss@gmail.com)
