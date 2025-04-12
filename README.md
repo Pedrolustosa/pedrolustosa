@@ -68,7 +68,7 @@ Teamwork and knowledge sharing are cornerstones of my career. With hands-on expe
     <img src="images/fundamentos-na-lei-geral-de-protecao-de-dados-lgpdf.png" width="96px" alt="LGPD Certificate">
     <img src="images/kanban-essentials-professional-certificate-kepc.png" width="96px" alt="Kanban Essentials Certificate">
     <img src="images/lifelong-learning.png" width="96px" alt="Lifelong Learning Certificate">
-    <img src="images/scrum-foundation-professional-certificate-sfpc.1.png" width="96px" alt="Scrum Foundation Certificate">
+    <img src="images/Scrum Foundation Professional Certification(SFPC).png" width="96px" alt="Scrum Foundation Certificate">
     <img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="96px" alt="Remote Work Certificate">
   </p>
 </details>
