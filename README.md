@@ -70,6 +70,7 @@ Teamwork and knowledge sharing are cornerstones of my career. With hands-on expe
     <img src="images/lifelong-learning.png" width="96px" alt="Lifelong Learning Certificate">
     <img src="images/Scrum Foundation Professional Certification(SFPC).png" width="96px" alt="Scrum Foundation Certificate">
     <img src="images/remote-work-and-virtual-collaboration-professional-certificate-rwvcpc.png" width="96px" alt="Remote Work Certificate">
+    <img src="images/design-sprint-professional-certification-dspc.png" width="96px" alt="Design Sprint Professional Certification">
   </p>
 </details>
 <details>
