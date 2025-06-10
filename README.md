@@ -147,6 +147,6 @@ I'm a Full Stack Developer passionate about creating efficient, scalable solutio
 [![Credly](https://img.shields.io/badge/Credly-0073b1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedrolustosaengineer)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-e17055?style=for-the-badge&logo=buy-me-a-coffee&logoColor=2C3A47)](https://www.buymeacoffee.com/pedrolustosa)
 
-<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Pedrolustosa&style=flat-square" alt="Profile Views"/>
 
 </div>
