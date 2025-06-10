@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-pedroeternalss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pedroeternalss@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-0073b1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedrolustosaengineer)
 
-**Full Stack Developer | .NET & Angular Specialist | Cloud Solutions**
+**Full Stack Developer | .NET & Angular/React Specialist | Cloud Solutions**
 
 <p>
   <a href="https://github.com/Pedrolustosa/github-readme-stats">
