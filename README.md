@@ -26,7 +26,7 @@ var developer = new FullStackDeveloper
 {
     Name = "Pedro Lustosa",
     Focus = ["Performance", "Scalability", "Clean Code"],
-    PrimaryStack = ["C#", ".NET", "Angular", "React", "SQL Server", "Azure"],
+    PrimaryStack = ["C#", "Python", ".NET", "Angular", "React", "SQL Server", "Azure"],
     Methodologies = ["Agile", "SCRUM", "Kanban"]
 };
 ```
