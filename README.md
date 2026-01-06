@@ -38,7 +38,7 @@ I'm a Full Stack Developer passionate about creating efficient, scalable solutio
 - 🎓 Bachelor in Information Systems
 - 🔧 Technical Course in Computer Maintenance
 - 🤖 Postgraduate in Artificial Intelligence - *In Progress*
-- 📊 Postgraduate in Data Science and Analytics - *In Progress*
+- 📊 Postgraduate in Data Science and Analytics
 
 > "The more I learn, the more I realize how much I don't know." — Albert Einstein
 
